@@ -7,6 +7,7 @@ function App() {
   return (
     <>
       <h1>CC Web Partners</h1>
+      <p>Your Corpus Christi Partner</p>
     </>
   );
 }
