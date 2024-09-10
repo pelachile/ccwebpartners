@@ -6,7 +6,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <h1>CCWebPartners</h1>
+      <h1>CC Web Partners</h1>
     </>
   );
 }
