@@ -6,8 +6,8 @@ import "./App.css";
 function App() {
   return (
     <>
-      <h1>CC Web Partners</h1>
-      <p>Your Corpus Christi Partner</p>
+      <h1 className="text-white text-4xl">CC Web Partners</h1>
+      <p className="text-slate-400 text-xl">Your Corpus Christi Partner</p>
     </>
   );
 }
